@@ -1,0 +1,14 @@
+{
+    "server_status": true,
+    "title": "New 2 Update Available 🙂",
+    "version": "2.1",
+    "version_can_skip": "2.1",
+    "can_not_skip": false,
+    "url": "https://google.com",
+    "text": "**New update available**\n- **Bug fixed**\n- **New UI app**\n Update **UI** smooth",
+    "document": {
+        "file_name": "Application",
+        "size": "4000000",
+        "date": 1689478502507
+    }
+    }
