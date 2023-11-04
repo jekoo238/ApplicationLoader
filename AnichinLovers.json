@@ -4,7 +4,7 @@
     "version": "2.1",
     "version_can_skip": "2.1",
     "can_not_skip": false,
-    "url": "https://google.com",
+    "url": "https://raw.githubusercontent.com/jekoo238/ApplicationLoader/main/AnichinLovers.json",
     "text": "**New update available**\n- **Bug fixed**\n- **New UI app**\n Update **UI** smooth",
     "document": {
         "file_name": "Application",
